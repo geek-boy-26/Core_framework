@@ -10,6 +10,7 @@ public class TestCase_A1 extends TestSuiteBase
 	public void testCaseA1()
 	{
 		System.out.println("TestCaseA1");
+		
 	}
 
 }
