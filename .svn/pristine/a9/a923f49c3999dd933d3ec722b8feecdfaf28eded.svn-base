@@ -1,0 +1,27 @@
+20/10/2015 11:19:01 devpinoyLogger Loading property files
+20/10/2015 11:19:01 devpinoyLogger Loader property file succesfully
+20/10/2015 11:19:01 devpinoyLogger Loading Xls files
+20/10/2015 11:19:01 devpinoyLogger Loaded Xls files
+20/10/2015 11:19:01 devpinoyLogger Checking Run mode of Suite A
+20/10/2015 11:19:01 devpinoyLogger Executing TestCase_A1
+20/10/2015 11:19:01 devpinoyLogger Dummy Data_A1_1--Dummy Data_A1_2---Dummy Data_A1_3--Dummy Data_A1_4
+20/10/2015 11:19:01 devpinoyLogger Executing TestCase_A1
+20/10/2015 11:19:01 devpinoyLogger Dummy Data_A1_13--Dummy Data_A1_14---Dummy Data_A1_15--Dummy Data_A1_16
+20/10/2015 11:19:01 devpinoyLogger Executing TestCase_A2
+20/10/2015 11:19:01 devpinoyLogger Dummy Data_A2_1--Dummy Data_A2_2---Dummy Data_A2_3
+20/10/2015 11:19:01 devpinoyLogger Checking Run mode of Suite B
+20/10/2015 11:19:01 devpinoyLogger Executing TestCase_B1
+20/10/2015 11:19:01 devpinoyLogger Dummy Data_B1_1--Dummy Data_B1_2---Dummy Data_B1_3--Dummy Data_B1_4
+20/10/2015 11:19:01 devpinoyLogger Executing TestCase_B1
+20/10/2015 11:19:01 devpinoyLogger Dummy Data_B1_5--Dummy Data_B1_6---Dummy Data_B1_7--Dummy Data_B1_8
+20/10/2015 11:19:01 devpinoyLogger Executing TestCase_B1
+20/10/2015 11:19:01 devpinoyLogger Dummy Data_B1_9--Dummy Data_B1_10---Dummy Data_B1_11--Dummy Data_B1_12
+20/10/2015 11:19:01 devpinoyLogger Executing TestCase_B1
+20/10/2015 11:19:01 devpinoyLogger Dummy Data_B1_13--Dummy Data_B1_14---Dummy Data_B1_15--Dummy Data_B1_16
+20/10/2015 11:19:02 devpinoyLogger Checking Run mode of Suite C
+20/10/2015 11:19:02 devpinoyLogger Executing TestCase_C1
+20/10/2015 11:19:02 devpinoyLogger Dummy Data_C1_5--Dummy Data_C1_6---Dummy Data_C1_7--Dummy Data_C1_8
+20/10/2015 11:19:02 devpinoyLogger Executing TestCase_C1
+20/10/2015 11:19:02 devpinoyLogger Dummy Data_C1_9--Dummy Data_C1_10---Dummy Data_C1_11--Dummy Data_C1_12
+20/10/2015 11:19:02 devpinoyLogger Executing TestCase_C1
+20/10/2015 11:19:02 devpinoyLogger Dummy Data_C1_13--Dummy Data_C1_14---Dummy Data_C1_15--Dummy Data_C1_16

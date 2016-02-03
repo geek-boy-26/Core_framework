@@ -28,7 +28,7 @@ public class TestCase_A1 extends TestSuiteBase
 		if(!TestUtil.isTestCaseRunnable(suiteAXls, this.getClass().getSimpleName()))
 		{
 			APP_LOGS.debug("Skipping testcase as test"+this.getClass().getSimpleName()+" case runmode set to no in test case"); //logs
-			throw new SkipException("Test Case skipped as runmode set to no A1");//reports
+			throw new SkipException("Test Case skipped as runmode set to no for test case A1");//reports
 		}
 		
 		
